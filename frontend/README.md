@@ -10,7 +10,7 @@
 npm install
 ```
 
-## Run tests
+## Run Application
 
 ```sh
 npm run dev
